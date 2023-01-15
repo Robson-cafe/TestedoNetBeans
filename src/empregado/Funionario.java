@@ -10,5 +10,5 @@ package empregado;
  * @author Robson
  */
 public class Funionario {
-  
+  private static double nome; 
 }
